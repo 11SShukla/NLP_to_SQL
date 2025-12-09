@@ -1,5 +1,4 @@
 # NLP_to_SQL
-# NLP_to_SQL
 This project converts natural language questions into executable SQL queries using a lightweight LLM
 .
 
