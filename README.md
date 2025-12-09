@@ -47,8 +47,12 @@ streamlit run frontend.py
 
 #Future Improvements
 
-Add query validation
-Add multi-table join handling
-Add conversation memory
-Add role-based authentication
-Deploy Streamlit app online
+->Add query validation
+
+->Add multi-table join handling
+
+->Add conversation memory
+
+->Add role-based authentication
+
+->Deploy Streamlit app online
