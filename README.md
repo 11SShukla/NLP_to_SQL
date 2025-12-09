@@ -45,14 +45,10 @@ python main.py
 6️⃣ Launch the Frontend
 streamlit run frontend.py
 
-Future Improvements
+#Future Improvements
 
 Add query validation
-
 Add multi-table join handling
-
 Add conversation memory
-
 Add role-based authentication
-
 Deploy Streamlit app online
